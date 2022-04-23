@@ -79,7 +79,7 @@ The application includes the following analyses, charts, and simulations
 
 **A display of the Monte Carlo Simulation Chart is listed below**
 
-![SR](https://github.com/TracyMichael/Module-Challenge-5/blob/main/images/Monte_Carlo_Simulation.png)
+![MC](/Users/TracyMichael1/Desktop/Fintech-Workspace/fintech-spring-summer/Module-Challenge-5/images/Monte_Carlo_Simulation.png)
 
 
 
