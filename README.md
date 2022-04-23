@@ -75,13 +75,6 @@ The application includes the following analyses, charts, and simulations
 5. Monte Carlo Simulation Summary Statistics
 
 
-
-
-**A display of the Monte Carlo Simulation Chart is listed below**
-
-![MC](https://github.com/TracyMichael/Module-Challenge-5/raw/main/images/Monte_Carlo_Simulation.png)
-
-
 ---
 
 ## Contributors
