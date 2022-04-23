@@ -79,8 +79,7 @@ The application includes the following analyses, charts, and simulations
 
 **A display of the Monte Carlo Simulation Chart is listed below**
 
-![MC](./images/Monte_Carlo_Simulation.png)
-
+![MC](https://github.com/TracyMichael/Module-Challenge-5/raw/main/images/Monte_Carlo_Simulation.png)
 
 
 ---
